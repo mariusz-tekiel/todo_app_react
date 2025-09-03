@@ -3,14 +3,14 @@
 Prosta aplikacja ToDo stworzona w React.js z wykorzystaniem Vite.
 Pozwala na dodawanie, oznaczanie jako ukończone oraz usuwanie zadań w eleganckim, ciemnym motywie.
 
-🚀 Funkcje  
+FUNKCJE:  
 ➕ Dodawanie nowych zadań  
 ✅ Oznaczanie zadań jako ukończone (checkbox)  
 🗑️ Usuwanie pojedynczych zadań  
 🧹 Usuwanie wszystkich ukończonych jednym kliknięciem  
 🌙 Nowoczesny ciemny motyw  
 
-🛠️ Technologie  
+TECHNOLOGIE:  
 React 18+  
 Vite  
 CSS (własne style / Tailwind)  
@@ -30,7 +30,7 @@ my-todo-app/
 │── README.md  
 │── vite.config.js  
 
-Instalacja i uruchomienie  
+INSTALACJA I URUCHOMIENIE:
 
 Sklonuj repozytorium:  
 git clone https://github.com/<twoje-konto>/my-todo-app.git  
@@ -55,7 +55,7 @@ Funkcjonalnosci:
  Wielojęzyczność (PL/EN)
  Tryb jasny i ciemny
 
-📜 Licencja
+LICENCJA:
 Projekt dostępny na licencji MIT – możesz go używać, modyfikować i udostępniać.
 
 Currently, two official plugins are available:
