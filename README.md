@@ -25,16 +25,27 @@ CSS (własne style / Tailwind)
 
 📂 Struktura projektu
 my-todo-app/
+
 │── node_modules/
+
 │── public/
+
 │    └── vite.svg
+
 │── src/
+
 │── .gitignore
+
 │── eslint.config.js
+
 │── index.html
+
 │── package.json
+
 │── package-lock.json
+
 │── README.md
+
 │── vite.config.js
 
 Instalacja i uruchomienie
