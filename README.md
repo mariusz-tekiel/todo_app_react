@@ -3,71 +3,49 @@
 Prosta aplikacja ToDo stworzona w React.js z wykorzystaniem Vite.
 Pozwala na dodawanie, oznaczanie jako ukończone oraz usuwanie zadań w eleganckim, ciemnym motywie.
 
-🚀 Funkcje
+🚀 Funkcje  
+➕ Dodawanie nowych zadań  
+✅ Oznaczanie zadań jako ukończone (checkbox)  
+🗑️ Usuwanie pojedynczych zadań  
+🧹 Usuwanie wszystkich ukończonych jednym kliknięciem  
+🌙 Nowoczesny ciemny motyw  
 
-➕ Dodawanie nowych zadań
+🛠️ Technologie  
+React 18+  
+Vite  
+CSS (własne style / Tailwind)  
 
-✅ Oznaczanie zadań jako ukończone (checkbox)
+📂 Struktura projektu  
 
-🗑️ Usuwanie pojedynczych zadań
+my-todo-app/  
+│── node_modules/  
+│── public/  
+│    └── vite.svg  
+│── src/  
+│── .gitignore  
+│── eslint.config.js  
+│── index.html  
+│── package.json  
+│── package-lock.json  
+│── README.md  
+│── vite.config.js  
 
-🧹 Usuwanie wszystkich ukończonych jednym kliknięciem
+Instalacja i uruchomienie  
 
-🌙 Nowoczesny ciemny motyw
+Sklonuj repozytorium:  
+git clone https://github.com/<twoje-konto>/my-todo-app.git  
+cd my-todo-app  
 
-
-🛠️ Technologie
-
-React 18+
-
-Vite
-
-CSS (własne style / Tailwind)
-
-
-📂 Struktura projektu
-my-todo-app/
-
-│── node_modules/
-
-│── public/
-
-│    └── vite.svg
-
-│── src/
-
-│── .gitignore
-
-│── eslint.config.js
-
-│── index.html
-
-│── package.json
-
-│── package-lock.json
-
-│── README.md
-
-│── vite.config.js
-
-
-
-Instalacja i uruchomienie
-
-Sklonuj repozytorium:
-git clone https://github.com/<twoje-konto>/my-todo-app.git
-cd my-todo-app
-
-Zainstaluj zależności:
+Zainstaluj zależności:  
 npm install
 
-Uruchom w trybie deweloperskim:
+Uruchom w trybie deweloperskim:  
 npm run dev
 
-Domyślnie aplikacja będzie dostępna pod adresem:
+Domyślnie aplikacja będzie dostępna pod adresem:  
 -> http://localhost:5173
 
-Zbuduj wersję produkcyjną:
+Zbuduj wersję produkcyjną:  
 npm run build
 
 Funkcjonalnosci:
