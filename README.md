@@ -15,6 +15,7 @@ Pozwala na dodawanie, oznaczanie jako ukończone oraz usuwanie zadań w eleganck
 
 🌙 Nowoczesny ciemny motyw
 
+
 🛠️ Technologie
 
 React 18+
@@ -22,6 +23,7 @@ React 18+
 Vite
 
 CSS (własne style / Tailwind)
+
 
 📂 Struktura projektu
 my-todo-app/
@@ -47,6 +49,8 @@ my-todo-app/
 │── README.md
 
 │── vite.config.js
+
+
 
 Instalacja i uruchomienie
 
