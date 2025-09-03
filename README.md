@@ -1,6 +1,60 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Prosta aplikacja ToDo stworzona w React.js z wykorzystaniem Vite.
+Pozwala na dodawanie, oznaczanie jako ukończone oraz usuwanie zadań w eleganckim, ciemnym motywie.
+
+🚀 Funkcje
+➕ Dodawanie nowych zadań
+✅ Oznaczanie zadań jako ukończone (checkbox)
+🗑️ Usuwanie pojedynczych zadań
+🧹 Usuwanie wszystkich ukończonych jednym kliknięciem
+🌙 Nowoczesny ciemny motyw
+
+🛠️ Technologie
+React 18+
+Vite
+
+Struktura projektu:
+my-todo-app/
+│── node_modules/
+│── public/
+│    └── vite.svg
+│── src/
+│── .gitignore
+│── eslint.config.js
+│── index.html
+│── package.json
+│── package-lock.json
+│── README.md
+│── vite.config.js
+
+Instalacja i uruchomienie
+
+Sklonuj repozytorium:
+git clone https://github.com/<twoje-konto>/my-todo-app.git
+cd my-todo-app
+
+Zainstaluj zależności:
+npm install
+
+Uruchom w trybie deweloperskim:
+npm run dev
+
+Domyślnie aplikacja będzie dostępna pod adresem:
+-> http://localhost:5173
+
+Zbuduj wersję produkcyjną:
+npm run build
+
+Funkcjonalnosci:
+ Edycja istniejących zadań
+ Filtrowanie: wszystkie / aktywne / ukończone
+ Zapisywanie zadań w localStorage
+ Wielojęzyczność (PL/EN)
+ Tryb jasny i ciemny
+
+📜 Licencja
+Projekt dostępny na licencji MIT – możesz go używać, modyfikować i udostępniać.
 
 Currently, two official plugins are available:
 
